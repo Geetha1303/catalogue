@@ -1,4 +1,4 @@
-@Library('roboshop') _
+@Library('roboshop') _catalogue
 roboshop {
   COMPONENT          :'catalogue',
   PROJECT_NAME       :"Roboshop",
